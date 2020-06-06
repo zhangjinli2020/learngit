@@ -6,3 +6,5 @@ Git is free software distributed under the GPL.
 
 this is the third Commit
 the content is TTTTTTTTTTTT
+
+Git has a mutable index called stage.
